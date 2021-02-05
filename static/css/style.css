@@ -76,6 +76,10 @@ h5{
   /*font-weight: bold;*/
 }
 
+.navbar-brand {
+    font-size: 2em
+}
+
 .p-tiny{
   font-size: 0.8em;
   text-align: center;
