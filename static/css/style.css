@@ -138,6 +138,10 @@ a:hover {
   text-decoration: underline;
 }
 
+a:hover .icon-img {
+    opacity: 0.8
+}
+
 a:active {
   color: yellow;
   background-color: transparent;
